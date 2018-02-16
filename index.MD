@@ -130,3 +130,5 @@ La columna **Scan queue** te mostrará la cantidad de escaneos restantes y se ac
 - Ve a la pestaña **Channel / EPG**.
 
 **¡Eso es todo!** ¡Configuraste tu instancia de TVHeadend correctamente!
+
+### ¿Problemas con el buffer? Habilita _Timeshifting_ en las configuraciones de grabación (_Recording_).
