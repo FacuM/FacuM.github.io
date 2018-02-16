@@ -73,7 +73,7 @@ The column **Scan queue** will show you the remaining scans and auto-update itse
 
 # ES
 
-A veces, TVheadend puede volverse un verdadero dolor de cabeza en lo que a configurarlo para IPTV se refiere. Por ejemplo, uno de los problemas más comunes que puedes experimentar son los errores generales de decodificación, inestabilidad y grandes difcultades al momento de intentar escanear una lista (principalmente las m3u).
+A veces, TVHeadend puede volverse un verdadero dolor de cabeza en lo que a configurarlo para IPTV se refiere. Por ejemplo, uno de los problemas más comunes que puedes experimentar son los errores generales de decodificación, inestabilidad y grandes difcultades al momento de intentar escanear una lista (principalmente las m3u).
 
 Navegando por internet y leyendo sobre esta falla me llevó al hilo de un foro que tenía la solución final. Incluso teniendo en cuenta que esta solucion puede sonar algo "pesada" para un sistema casero, actualmente, ¡funciona!
 
